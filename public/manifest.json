@@ -1,0 +1,11 @@
+{
+  "name": "STOCK MANAGMENT",
+  "short_name": "STOCK MANAGMENT",
+  "scope": ".",
+  "start_url": "/",
+  "background_color": "#fff",
+  "theme_color": "#302542",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "fa"
+}
